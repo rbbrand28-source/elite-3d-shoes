@@ -1,0 +1,13 @@
+futuristic-shoe-site/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ assets/        # Placeholder assets (optional)
+│  ├─ components/
+│  │  └─ ShoeCanvas.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ tailwind.config.cjs
+├─ postcss.config.cjs
+├─ package.json
+└─ vite.config.js
